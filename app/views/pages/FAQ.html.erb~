@@ -1,0 +1,8 @@
+<h1>FAQ</h1>
+<font size="1">That's "Frequently Asked Questions," by the way. You know, just in case you <em>didn't</em> know.</font>
+<div><p>-----------------------------------------------------------------------------------<br/><b>What does mapA mean?</b><br/>It's short for "Maps of Ateneo." Clever, huh?</p>
+<p><b>How come Bellarmine Hall and the PIPAC building are not included in the map?</b><br/>Oh. Err, right... It's uhh... we forgot. Well, it's more of we didn't realize that it wasn't on the map we're using. Well, except for PIPAC. We decided not to include that cause, come on, nobody goes there.</p>
+<p><b>Oh yeah! Isn't that Regcom's map?</b><br/>Why yes, yes it is. We asked for permission. Maybe.</p></div>
+<p><b>Ehh, whatever. Can I see that cool logo up close?</b><br/>Why of course, my dear!<br/><img src="http://i.imgur.com/eTkDp5j.png"></p>
+<p><b>Cool! So uhh, does your app actually measure the distance it takes from one location's "front entrance" to its "exit" (e.g. from the water fountain in Kostka to Kostka Extension)?</b><br/>Sadly, no. The algorithm we used only sees each location as just, like, a dot in the map. This makes some of the calculations not as accurate as we'd hoped.</p>
+<p><b>Speaking of accuracy, how accurate is mapA anyway?</b><br/>As accurate as Google Maps can be. That's what we used to measure the distances between locations, but since we could only get the distance between two points in the roads, we had to specifically point out which part of the road would be the "entrance" to a location, so to speak. And as such, we could also only measure distances between two road points, and thus could not measure the distance of a path that takes a shortcut that isn't a road, like say, a patch of grass.</p>

@@ -1,0 +1,55 @@
+<h1>mapA</h1>
+<p>Welcome to mapA! Where are you going today?</p>
+<p><img src="http://i.imgur.com/qUMjjDl.png"></p>
+<div class="btn-group btn-justified">
+  <button type="button" class="btn btn-primary">From</button>
+  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+    <span class="sr-only"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li><a>Berchmans Hall</a></li>
+    <li><a>Xavier Hall</a></li>
+    <li><a>Kostka Hall</a></li>
+    <li><a>Gonzaga Hall</a></li>
+    <li><a>Faber Hall</a></li>
+    <li><a>MVP Building</a></li>
+    <li><a>Old Rizal Library</a></li>
+    <li><a>Schmitt Hall</a></li>
+    <li><a>Social Sciences Complex/Leong Hall</a></li>
+    <li><a>Dela Costa Hall</a></li>
+    <li><a>New Rizal Library</a></li>
+    <li><a>Faura Hall</a></li>
+    <li><a>SEC-A</a></li>
+    <li><a>SEC-B</a></li>
+    <li><a>SEC-C</a></li>
+    <li><a>CTC</a></li>
+    <li><a>JGSOM Building</a></li>
+  </ul>
+</div>
+<div class="btn-group btn-justified">
+  <button type="button" class="btn btn-primary">To</button>
+  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+    <span class="sr-only"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li><a>Berchmans Hall</a></li>
+    <li><a>Xavier Hall</a></li>
+    <li><a>Kostka Hall</a></li>
+    <li><a>Gonzaga Hall</a></li>
+    <li><a>Faber Hall</a></li>
+    <li><a>MVP Building</a></li>
+    <li><a>Old Rizal Library</a></li>
+    <li><a>Schmitt Hall</a></li>
+    <li><a>Social Sciences Complex/Leong Hall</a></li>
+    <li><a>Dela Costa Hall</a></li>
+    <li><a>New Rizal Library</a></li>
+    <li><a>Faura Hall</a></li>
+    <li><a>SEC-A</a></li>
+    <li><a>SEC-B</a></li>
+    <li><a>SEC-C</a></li>
+    <li><a>CTC</a></li>
+    <li><a>JGSOM Building</a></li>
+  </ul>
+</div>
